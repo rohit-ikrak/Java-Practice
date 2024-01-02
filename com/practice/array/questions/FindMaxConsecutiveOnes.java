@@ -1,4 +1,3 @@
-import java.util.*;
 public class FindMaxConsecutiveOnes {
     static int findMaxConsecutiveOnes(int nums[]) {
         int cnt = 0;

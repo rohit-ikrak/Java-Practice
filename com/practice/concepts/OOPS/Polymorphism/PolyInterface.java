@@ -1,4 +1,3 @@
-package Concepts.OOPS.Polymorphism;
 
 interface Inter{
 	void call();
