@@ -26,7 +26,7 @@ interface Second{ //we can extend interfaces
 	
 }
 
-public class InterfaceExample implements First, Second{
+class InterfaceExample implements First, Second{
 
 	//annotation is given in this
 	@Override

@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class ZeroToEnd {
     public static int[] moveZeros(int n, int []a) {

@@ -1,5 +1,3 @@
-
-import java.util.*;
 public class RemoveDuplicate {
     public static void main(String[] args) {
        int arr[] = {1,1,2,2,2,3,3};
