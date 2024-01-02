@@ -13,7 +13,6 @@ public class ScannerFileInputStreamClass {
 				System.out.println(line);
 			}
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
